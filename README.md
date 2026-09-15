@@ -40,6 +40,15 @@ These contributions were assisted by Skippy.
 
 **Success Rate:** 40.5% merged (135 of 333)
 
+## Bootstrapping Projects
+
+These projects are in their initial contribution phase and do not yet have a
+merged contribution.
+
+| Project | Contributions | Open | Merged |
+| --- | ---: | ---: | ---: |
+| <a href="https://github.com/NVIDIA/SkillEvaluator"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillEvaluator">SkillEvaluator</a> | [2](https://github.com/NVIDIA/SkillEvaluator/pulls/deepujain) | 2 | 0 |
+
 ## Non-Skippy Contributions
 
 These contributions were not assisted by Skippy.
