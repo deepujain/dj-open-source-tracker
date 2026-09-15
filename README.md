@@ -20,7 +20,6 @@ These contributions were assisted by Skippy.
 | <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [33](https://github.com/apache/airflow/pulls/deepujain) | 5 | 11 | 33.3% |
 | <a href="https://github.com/apache/hadoop"><img src="https://apache.org/logos/res/hadoop/hadoop.png" alt="Apache Hadoop logo" height="18"></a> <a href="https://github.com/apache/hadoop">Apache Hadoop</a> | [15](https://github.com/apache/hadoop/pulls/deepujain) | 8 | 4 | 26.7% |
 | <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [4](https://github.com/apache/spark/pulls/deepujain) | 2 | 0 | 0.0% |
-| <a href="https://github.com/apache/superset"><img src="https://apache.org/logos/res/superset/default.png" alt="Apache Superset logo" height="18"></a> <a href="https://github.com/apache/superset">Apache Superset</a> | [5](https://github.com/apache/superset/pulls/deepujain) | 5 | 0 | 0.0% |
 | <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/og-logo.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [21](https://github.com/openclaw/clawhub/pulls/deepujain) | 0 | 9 | 42.9% |
 | <a href="https://github.com/NousResearch/hermes-agent"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" alt="Hermes Agent logo" height="18"></a> <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> | [11](https://github.com/NousResearch/hermes-agent/pulls/deepujain) | 9 | 0 | 0.0% |
 | <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [32](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 0 | 17 | 53.1% |
@@ -34,11 +33,11 @@ These contributions were assisted by Skippy.
 | <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [16](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 8 | 8 | 50.0% |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 | 0.0% |
 | <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [11](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 5 | 6 | 54.5% |
-| **Total Contributions** | **333** | **73** | **135** | **40.5%** |
+| **Total Contributions** | **328** | **68** | **135** | **41.2%** |
 
-**Total Contributions:** 333
+**Total Contributions:** 328
 
-**Success Rate:** 40.5% merged (135 of 333)
+**Success Rate:** 41.2% merged (135 of 328)
 
 ## Bootstrapping Projects
 
@@ -47,6 +46,7 @@ merged contribution.
 
 | Project | Contributions | Open | Merged |
 | --- | ---: | ---: | ---: |
+| <a href="https://github.com/apache/superset"><img src="https://apache.org/logos/res/superset/default.png" alt="Apache Superset logo" height="18"></a> <a href="https://github.com/apache/superset">Apache Superset</a> | [5](https://github.com/apache/superset/pulls/deepujain) | 5 | 0 |
 | <a href="https://github.com/NVIDIA/SkillEvaluator"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillEvaluator">SkillEvaluator</a> | [2](https://github.com/NVIDIA/SkillEvaluator/pulls/deepujain) | 2 | 0 |
 
 ## Non-Skippy Contributions
