@@ -1,19 +1,19 @@
-# Skippy
+# Moxie
 
-[Skippy](https://github.com/deepujain/skippy) is an engineering system for AI coding agents that carries real work
+[Moxie](https://github.com/deepujain/moxie) is an engineering system for AI coding agents that carries real work
 from intent to verified delivery. It combines engineering principles,
 decision rules, task-specific playbooks, project skills, durable task plans,
 continuous learning from outcomes, concurrent specialist-agent coordination,
 and evidence-driven verification.
 
-Rather than only generating a patch, Skippy helps an agent understand project
+Rather than only generating a patch, Moxie helps an agent understand project
 constraints, choose and execute the right work, learn from review outcomes,
 launch and manage concurrent agents where useful, and deliver a clear receipt
 of what was tested, what remains, and the next action.
 
-## Skippy-Assisted Contributions
+## Moxie-Assisted Contributions
 
-These contributions were assisted by Skippy.
+These contributions were assisted by Moxie.
 
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
@@ -51,9 +51,9 @@ merged contribution.
 | <a href="https://github.com/NVIDIA-NeMo/Switchyard"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-NeMo/Switchyard">Switchyard</a> | [6](https://github.com/NVIDIA-NeMo/Switchyard/pulls/deepujain) | 4 | 0 |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 |
 
-## Non-Skippy Contributions
+## Non-Moxie Contributions
 
-These contributions were not assisted by Skippy.
+These contributions were not assisted by Moxie.
 
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
