@@ -23,7 +23,7 @@ These contributions were assisted by Moxie.
 | <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/og-logo.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [22](https://github.com/openclaw/clawhub/pulls/deepujain) | 1 | 9 | 40.9% |
 | <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [35](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 2 | 18 | 51.4% |
 | <a href="https://github.com/meridianlabs-ai/inspect_petri"><img src="https://raw.githubusercontent.com/meridianlabs-ai/inspect_petri/main/docs/images/petri.svg" alt="Inspect Petri logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/inspect_petri">Inspect Petri</a> | [4](https://github.com/meridianlabs-ai/inspect_petri/pulls/deepujain) | 1 | 1 | 25.0% |
-| <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [145](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 5 | 89 | 61.4% |
+| <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [147](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 4 | 92 | 62.6% |
 | <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit">NVIDIA NeMo Agent Toolkit</a> | [3](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pulls/deepujain) | 2 | 1 | 33.3% |
 | <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [32](https://github.com/openclaw/openclaw/pulls/deepujain) | 3 | 4 | 12.5% |
 | <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [23](https://github.com/pytorch/pytorch/pulls/deepujain) | 12 | 6 | 26.1% |
@@ -31,11 +31,11 @@ These contributions were assisted by Moxie.
 | <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [27](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 10 | 17 | 63.0% |
 | <a href="https://github.com/NVIDIA-NeMo/Switchyard"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-NeMo/Switchyard">Switchyard</a> | [8](https://github.com/NVIDIA-NeMo/Switchyard/pulls/deepujain) | 4 | 2 | 25.0% |
 | <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [17](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 7 | 9 | 52.9% |
-| **Total Contributions** | **381** | **68** | **181** | **47.5%** |
+| **Total Contributions** | **383** | **67** | **184** | **48.0%** |
 
-**Total Contributions:** 381
+**Total Contributions:** 383
 
-**Success Rate:** 47.5% merged (181 of 381)
+**Success Rate:** 48.0% merged (184 of 383)
 
 ## Bootstrapping Projects
 
