@@ -25,17 +25,17 @@ These contributions were assisted by Moxie.
 | <a href="https://github.com/meridianlabs-ai/inspect_petri"><img src="https://raw.githubusercontent.com/meridianlabs-ai/inspect_petri/main/docs/images/petri.svg" alt="Inspect Petri logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/inspect_petri">Inspect Petri</a> | [4](https://github.com/meridianlabs-ai/inspect_petri/pulls/deepujain) | 1 | 1 | 25.0% |
 | <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [145](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 5 | 89 | 61.4% |
 | <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit">NVIDIA NeMo Agent Toolkit</a> | [3](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pulls/deepujain) | 2 | 1 | 33.3% |
-| <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [31](https://github.com/openclaw/openclaw/pulls/deepujain) | 2 | 4 | 12.9% |
+| <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [32](https://github.com/openclaw/openclaw/pulls/deepujain) | 3 | 4 | 12.5% |
 | <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [23](https://github.com/pytorch/pytorch/pulls/deepujain) | 12 | 6 | 26.1% |
 | <a href="https://github.com/NVIDIA/SkillEvaluator"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillEvaluator">SkillEvaluator</a> | [5](https://github.com/NVIDIA/SkillEvaluator/pulls/deepujain) | 2 | 3 | 60.0% |
 | <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [27](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 10 | 17 | 63.0% |
 | <a href="https://github.com/NVIDIA-NeMo/Switchyard"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-NeMo/Switchyard">Switchyard</a> | [8](https://github.com/NVIDIA-NeMo/Switchyard/pulls/deepujain) | 4 | 2 | 25.0% |
 | <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [17](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 7 | 9 | 52.9% |
-| **Total Contributions** | **380** | **67** | **181** | **47.6%** |
+| **Total Contributions** | **381** | **68** | **181** | **47.5%** |
 
-**Total Contributions:** 380
+**Total Contributions:** 381
 
-**Success Rate:** 47.6% merged (181 of 380)
+**Success Rate:** 47.5% merged (181 of 381)
 
 ## Bootstrapping Projects
 
@@ -44,7 +44,7 @@ merged contribution.
 
 | Project | Contributions | Open | Merged |
 | --- | ---: | ---: | ---: |
-| <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [5](https://github.com/apache/spark/pulls/deepujain) | 3 | 0 |
+| <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [6](https://github.com/apache/spark/pulls/deepujain) | 4 | 0 |
 | <a href="https://github.com/NousResearch/hermes-agent"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" alt="Hermes Agent logo" height="18"></a> <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> | [11](https://github.com/NousResearch/hermes-agent/pulls/deepujain) | 9 | 0 |
 | <a href="https://github.com/Leaflet/Leaflet"><img src="https://avatars.githubusercontent.com/u/2854298?v=4" alt="Leaflet logo" height="18"></a> <a href="https://github.com/Leaflet/Leaflet">Leaflet</a> | [5](https://github.com/Leaflet/Leaflet/pulls/deepujain) | 5 | 0 |
 | <a href="https://github.com/NVIDIA/Megatron-LM"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/Megatron-LM">Megatron-LM</a> | [5](https://github.com/NVIDIA/Megatron-LM/pulls/deepujain) | 5 | 0 |
