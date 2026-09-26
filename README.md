@@ -63,11 +63,10 @@ These contributions were not assisted by Moxie.
 | <a href="https://github.com/elastic/beats"><img src="https://avatars.githubusercontent.com/u/6764390?v=4" alt="Elastic logo" height="18"></a> <a href="https://github.com/elastic/beats">Elastic Beats</a> | [2](https://github.com/elastic/beats/pulls/deepujain) | 0 | 2 | 100.0% |
 | <a href="https://github.com/eBay/oink"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a> <a href="https://github.com/eBay/oink">eBay Oink</a> | [1](https://github.com/eBay/oink/pulls/deepujain) | 0 | 1 | 100.0% |
 | <a href="https://github.com/eBay/nvidiagpubeat"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a> <a href="https://github.com/eBay/nvidiagpubeat">nvidiagpubeat</a> | Creator and maintainer | — | — | — |
-| <a href="https://github.com/neethajainb/FSND"><img src="https://avatars.githubusercontent.com/u/23020581?v=4" alt="FSND logo" height="18"></a> <a href="https://github.com/neethajainb/FSND">FSND</a> | [4](https://github.com/neethajainb/FSND/pulls/deepujain) | 0 | 4 | 100.0% |
 | <a href="https://github.com/apache/pig"><img src="https://apache.org/logos/res/pig/default.png" alt="Apache Pig logo" height="18"></a> <a href="https://github.com/apache/pig">Apache Pig</a> | [2](https://issues.apache.org/jira/issues/?jql=key%20in%20(PIG-1885%2C%20PIG-671)) | 0 | 2 | 100.0% |
 | <a href="https://github.com/apache/zeppelin"><img src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zepLogo.png" alt="Apache Zeppelin logo" height="18"></a> <a href="https://github.com/apache/zeppelin">Apache Zeppelin</a> | [6](https://github.com/apache/zeppelin/pulls/deepujain) | 0 | 0 | 0.0% |
 | <a href="https://github.com/NICTA/scoobi"><img src="https://avatars.githubusercontent.com/u/1151968?v=4" alt="Scoobi logo" height="18"></a> <a href="https://github.com/NICTA/scoobi">Scoobi</a> | [2](https://github.com/NICTA/scoobi/pulls/deepujain) | 0 | 0 | 0.0% |
-| **Total Contributions** | **19** | **1** | **10** | **52.6%** |
+| **Total Contributions** | **15** | **1** | **6** | **40.0%** |
 
 ## Reusable Skill
 
