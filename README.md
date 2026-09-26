@@ -27,15 +27,15 @@ These contributions were assisted by Moxie.
 | <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit">NVIDIA NeMo Agent Toolkit</a> | [3](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pulls/deepujain) | 2 | 1 | 33.3% |
 | <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [32](https://github.com/openclaw/openclaw/pulls/deepujain) | 3 | 4 | 12.5% |
 | <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [23](https://github.com/pytorch/pytorch/pulls/deepujain) | 12 | 6 | 26.1% |
-| <a href="https://github.com/NVIDIA/SkillEvaluator"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillEvaluator">SkillEvaluator</a> | [5](https://github.com/NVIDIA/SkillEvaluator/pulls/deepujain) | 2 | 3 | 60.0% |
-| <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [27](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 10 | 17 | 63.0% |
+| <a href="https://github.com/NVIDIA/SkillEvaluator"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillEvaluator">SkillEvaluator</a> | [5](https://github.com/NVIDIA/SkillEvaluator/pulls/deepujain) | 1 | 4 | 80.0% |
+| <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [27](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 9 | 18 | 66.7% |
 | <a href="https://github.com/NVIDIA-NeMo/Switchyard"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-NeMo/Switchyard">Switchyard</a> | [8](https://github.com/NVIDIA-NeMo/Switchyard/pulls/deepujain) | 4 | 2 | 25.0% |
 | <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [20](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 9 | 10 | 50.0% |
-| **Total Contributions** | **388** | **71** | **185** | **47.7%** |
+| **Total Contributions** | **388** | **69** | **187** | **48.2%** |
 
 **Total Contributions:** 388
 
-**Success Rate:** 47.7% merged (185 of 388)
+**Success Rate:** 48.2% merged (187 of 388)
 
 ## Bootstrapping Projects
 
