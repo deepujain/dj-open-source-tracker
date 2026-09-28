@@ -1,19 +1,19 @@
-# Moxie
+# Pulsar
 
-[Moxie](https://github.com/deepujain/moxie) is an engineering system for AI coding agents that carries real work
+Pulsar is an engineering system for AI coding agents that carries real work
 from intent to verified delivery. It combines engineering principles,
 decision rules, task-specific playbooks, project skills, durable task plans,
 continuous learning from outcomes, concurrent specialist-agent coordination,
 and evidence-driven verification.
 
-Rather than only generating a patch, Moxie helps an agent understand project
+Rather than only generating a patch, Pulsar helps an agent understand project
 constraints, choose and execute the right work, learn from review outcomes,
 launch and manage concurrent agents where useful, and deliver a clear receipt
 of what was tested, what remains, and the next action.
 
-## Moxie-Assisted Contributions
+## Pulsar-Assisted Contributions
 
-These contributions were assisted by Moxie.
+These contributions were assisted by Pulsar.
 
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
@@ -53,9 +53,9 @@ merged contribution.
 | <a href="https://github.com/NVIDIA/OpenShell"><img src="https://raw.githubusercontent.com/NVIDIA/OpenShell/main/docs/brand/assets/favicon.svg" alt="OpenShell logo" height="18"></a> <a href="https://github.com/NVIDIA/OpenShell">OpenShell</a> | [1](https://github.com/NVIDIA/OpenShell/pulls/deepujain) | 0 | 0 |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 |
 
-## Non-Moxie Contributions
+## Non-Pulsar Contributions
 
-These contributions were not assisted by Moxie.
+These contributions were not assisted by Pulsar.
 
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
