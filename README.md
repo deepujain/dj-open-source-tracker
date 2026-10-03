@@ -15,29 +15,7 @@ of what was tested, what remains, and the next action.
 
 These contributions were assisted by Pulsar.
 
-| Project | Contributions | Open | Merged | Merged % |
-|--------------|---------------|------|--------|----------|
-| <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [34](https://github.com/apache/airflow/pulls/deepujain) | 5 | 12 | 35.3% |
-| <a href="https://github.com/apache/hadoop"><img src="https://apache.org/logos/res/hadoop/hadoop.png" alt="Apache Hadoop logo" height="18"></a> <a href="https://github.com/apache/hadoop">Apache Hadoop</a> | [15](https://github.com/apache/hadoop/pulls/deepujain) | 8 | 5 | 33.3% |
-| <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [7](https://github.com/apache/spark/pulls/deepujain) | 5 | 2 | 28.6% |
-| <a href="https://github.com/apache/superset"><img src="https://apache.org/logos/res/superset/default.png" alt="Apache Superset logo" height="18"></a> <a href="https://github.com/apache/superset">Apache Superset</a> | [11](https://github.com/apache/superset/pulls/deepujain) | 2 | 9 | 81.8% |
-| <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/og-logo.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [22](https://github.com/openclaw/clawhub/pulls/deepujain) | 1 | 9 | 40.9% |
-| <a href="https://github.com/kubernetes-sigs/gateway-api"><img src="https://avatars.githubusercontent.com/u/36015203?v=4" alt="Kubernetes SIGs logo" height="18"></a> <a href="https://github.com/kubernetes-sigs/gateway-api">Gateway API</a> | [1](https://github.com/kubernetes-sigs/gateway-api/pulls/deepujain) | 0 | 1 | 100.0% |
-| <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [36](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 2 | 18 | 50.0% |
-| <a href="https://github.com/meridianlabs-ai/inspect_petri"><img src="https://raw.githubusercontent.com/meridianlabs-ai/inspect_petri/main/docs/images/petri.svg" alt="Inspect Petri logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/inspect_petri">Inspect Petri</a> | [5](https://github.com/meridianlabs-ai/inspect_petri/pulls/deepujain) | 2 | 1 | 20.0% |
-| <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [151](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 2 | 98 | 64.9% |
-| <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit">NVIDIA NeMo Agent Toolkit</a> | [3](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pulls/deepujain) | 2 | 1 | 33.3% |
-| <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [32](https://github.com/openclaw/openclaw/pulls/deepujain) | 2 | 5 | 15.6% |
-| <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [23](https://github.com/pytorch/pytorch/pulls/deepujain) | 3 | 6 | 26.1% |
-| <a href="https://github.com/NVIDIA/SkillEvaluator"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillEvaluator">SkillEvaluator</a> | [5](https://github.com/NVIDIA/SkillEvaluator/pulls/deepujain) | 0 | 5 | 100.0% |
-| <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [28](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 7 | 21 | 75.0% |
-| <a href="https://github.com/NVIDIA-NeMo/Switchyard"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-NeMo/Switchyard">Switchyard</a> | [10](https://github.com/NVIDIA-NeMo/Switchyard/pulls/deepujain) | 5 | 3 | 30.0% |
-| <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [20](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 8 | 11 | 55.0% |
-| **Total Contributions** | **403** | **54** | **207** | **51.4%** |
-
-**Total Contributions:** 403
-
-**Success Rate:** 51.4% merged (207 of 403)
+![Pulsar dashboard showing open and merged open-source contributions](assets/pulsar-dashboard-2026-10-02.png)
 
 ## Bootstrapping Projects
 
