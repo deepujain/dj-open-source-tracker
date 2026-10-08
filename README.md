@@ -15,7 +15,7 @@ of what was tested, what remains, and the next action.
 
 These contributions were assisted by Pulsar.
 
-![Pulsar dashboard showing open and merged open-source contributions](assets/pulsar-dashboard-2026-10-02.png)
+![Pulsar dashboard showing open and merged open-source contributions](assets/pulsar-dashboard-2026-10-07.png)
 
 ## Bootstrapping Projects
 
@@ -24,8 +24,7 @@ merged contribution.
 
 | Project | Contributions | Open | Merged |
 | --- | ---: | ---: | ---: |
-| <a href="https://github.com/NVIDIA-AI-Blueprints/aiq"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-AI-Blueprints/aiq">AIQ</a> | [3](https://github.com/NVIDIA-AI-Blueprints/aiq/pulls/deepujain) | 3 | 0 |
-| <a href="https://github.com/NousResearch/hermes-agent"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" alt="Hermes Agent logo" height="18"></a> <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> | [11](https://github.com/NousResearch/hermes-agent/pulls/deepujain) | 9 | 0 |
+| <a href="https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent">Deep Researcher Agent (AIQ)</a> | [3](https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent/pulls/deepujain) | 3 | 0 |
 | <a href="https://github.com/Leaflet/Leaflet"><img src="https://avatars.githubusercontent.com/u/2854298?v=4" alt="Leaflet logo" height="18"></a> <a href="https://github.com/Leaflet/Leaflet">Leaflet</a> | [5](https://github.com/Leaflet/Leaflet/pulls/deepujain) | 5 | 0 |
 | <a href="https://github.com/NVIDIA/Megatron-LM"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/Megatron-LM">Megatron-LM</a> | [5](https://github.com/NVIDIA/Megatron-LM/pulls/deepujain) | 5 | 0 |
 | <a href="https://github.com/NVIDIA/OpenShell"><img src="https://raw.githubusercontent.com/NVIDIA/OpenShell/main/docs/brand/assets/favicon.svg" alt="OpenShell logo" height="18"></a> <a href="https://github.com/NVIDIA/OpenShell">OpenShell</a> | [1](https://github.com/NVIDIA/OpenShell/pulls/deepujain) | 0 | 0 |
