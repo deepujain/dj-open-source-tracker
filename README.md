@@ -1,44 +1,45 @@
-# Pulsar
+# Warp Speed
 
-Pulsar is an engineering system for AI coding agents that carries real work
+Warp Speed is an engineering system for AI coding agents that carries real work
 from intent to verified delivery. It combines engineering principles,
 decision rules, task-specific playbooks, project skills, durable task plans,
 continuous learning from outcomes, concurrent specialist-agent coordination,
 and evidence-driven verification.
 
-Rather than only generating a patch, Pulsar helps an agent understand project
+Rather than only generating a patch, Warp Speed helps an agent understand project
 constraints, choose and execute the right work, learn from review outcomes,
 launch and manage concurrent agents where useful, and deliver a clear receipt
 of what was tested, what remains, and the next action.
 
-## Pulsar-Assisted Contributions
+## Warp Speed-Assisted Contributions
 
-These contributions were assisted by Pulsar.
+These contributions were assisted by Warp Speed.
 
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
-| <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [34](https://github.com/apache/airflow/pulls/deepujain) | 0 | 12 | 35.3% |
-| <a href="https://github.com/apache/hadoop"><img src="https://apache.org/logos/res/hadoop/hadoop.png" alt="Apache Hadoop logo" height="18"></a> <a href="https://github.com/apache/hadoop">Apache Hadoop</a> | [15](https://github.com/apache/hadoop/pulls/deepujain) | 8 | 5 | 33.3% |
-| <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [7](https://github.com/apache/spark/pulls/deepujain) | 2 | 3 | 42.9% |
-| <a href="https://github.com/apache/superset"><img src="https://apache.org/logos/res/superset/default.png" alt="Apache Superset logo" height="18"></a> <a href="https://github.com/apache/superset">Apache Superset</a> | [11](https://github.com/apache/superset/pulls/deepujain) | 1 | 10 | 90.9% |
-| <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/og-logo.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [22](https://github.com/openclaw/clawhub/pulls/deepujain) | 0 | 9 | 40.9% |
-| <a href="https://github.com/kubernetes-sigs/gateway-api"><img src="https://avatars.githubusercontent.com/u/36015203?v=4" alt="Kubernetes SIGs logo" height="18"></a> <a href="https://github.com/kubernetes-sigs/gateway-api">Gateway API</a> | [1](https://github.com/kubernetes-sigs/gateway-api/pulls/deepujain) | 0 | 1 | 100.0% |
-| <a href="https://github.com/NousResearch/hermes-agent"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" alt="Hermes Agent logo" height="18"></a> <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> | [11](https://github.com/NousResearch/hermes-agent/pulls/deepujain) | 0 | 1 | 9.1% |
+| <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [37](https://github.com/apache/airflow/pulls/deepujain) | 1 | 14 | 37.8% |
+| <a href="https://github.com/apache/hadoop"><img src="https://apache.org/logos/res/hadoop/hadoop.png" alt="Apache Hadoop logo" height="18"></a> <a href="https://github.com/apache/hadoop">Apache Hadoop</a> | [15](https://github.com/apache/hadoop/pulls/deepujain) | 3 | 5 | 33.3% |
+| <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [7](https://github.com/apache/spark/pulls/deepujain) | 0 | 4 | 57.1% |
+| <a href="https://github.com/apache/superset"><img src="https://apache.org/logos/res/superset/default.png" alt="Apache Superset logo" height="18"></a> <a href="https://github.com/apache/superset">Apache Superset</a> | [12](https://github.com/apache/superset/pulls/deepujain) | 2 | 10 | 83.3% |
+| <a href="https://github.com/brevdev/brev-cli"><img src="https://avatars.githubusercontent.com/u/70683657?v=4" alt="Brev logo" height="18"></a> <a href="https://github.com/brevdev/brev-cli">Brev CLI</a> | [2](https://github.com/brevdev/brev-cli/pulls/deepujain) | 0 | 2 | 100.0% |
+| <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/og-logo.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [25](https://github.com/openclaw/clawhub/pulls/deepujain) | 0 | 12 | 48.0% |
+| <a href="https://github.com/kubernetes-sigs/gateway-api"><img src="https://avatars.githubusercontent.com/u/36015203?v=4" alt="Kubernetes SIGs logo" height="18"></a> <a href="https://github.com/kubernetes-sigs/gateway-api">Gateway API</a> | [2](https://github.com/kubernetes-sigs/gateway-api/pulls/deepujain) | 1 | 1 | 50.0% |
+| <a href="https://github.com/NousResearch/hermes-agent"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" alt="Hermes Agent logo" height="18"></a> <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> | [13](https://github.com/NousResearch/hermes-agent/pulls/deepujain) | 2 | 1 | 7.7% |
 | <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [36](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 1 | 19 | 52.8% |
-| <a href="https://github.com/meridianlabs-ai/inspect_petri"><img src="https://raw.githubusercontent.com/meridianlabs-ai/inspect_petri/main/docs/images/petri.svg" alt="Inspect Petri logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/inspect_petri">Inspect Petri</a> | [5](https://github.com/meridianlabs-ai/inspect_petri/pulls/deepujain) | 2 | 1 | 20.0% |
-| <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [185](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 2 | 125 | 67.6% |
+| <a href="https://github.com/meridianlabs-ai/inspect_petri"><img src="https://raw.githubusercontent.com/meridianlabs-ai/inspect_petri/main/docs/images/petri.svg" alt="Inspect Petri logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/inspect_petri">Inspect Petri</a> | [5](https://github.com/meridianlabs-ai/inspect_petri/pulls/deepujain) | 0 | 1 | 20.0% |
+| <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [214](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 4 | 151 | 70.6% |
 | <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit">NVIDIA NeMo Agent Toolkit</a> | [3](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pulls/deepujain) | 0 | 2 | 66.7% |
 | <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [32](https://github.com/openclaw/openclaw/pulls/deepujain) | 0 | 6 | 18.8% |
 | <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [23](https://github.com/pytorch/pytorch/pulls/deepujain) | 1 | 6 | 26.1% |
 | <a href="https://github.com/NVIDIA/SkillEvaluator"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillEvaluator">SkillEvaluator</a> | [5](https://github.com/NVIDIA/SkillEvaluator/pulls/deepujain) | 0 | 5 | 100.0% |
-| <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [28](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 0 | 26 | 92.9% |
-| <a href="https://github.com/NVIDIA-NeMo/Switchyard"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-NeMo/Switchyard">Switchyard</a> | [10](https://github.com/NVIDIA-NeMo/Switchyard/pulls/deepujain) | 5 | 3 | 30.0% |
+| <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [31](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 0 | 29 | 93.5% |
+| <a href="https://github.com/NVIDIA-NeMo/Switchyard"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-NeMo/Switchyard">Switchyard</a> | [10](https://github.com/NVIDIA-NeMo/Switchyard/pulls/deepujain) | 1 | 4 | 40.0% |
 | <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [20](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 0 | 16 | 80.0% |
-| **Total Contributions** | **448** | **22** | **250** | **55.8%** |
+| **Total Contributions** | **492** | **16** | **288** | **58.5%** |
 
-**Total Contributions:** 448
+**Total Contributions:** 492
 
-**Success Rate:** 55.8% merged (250 of 448)
+**Success Rate:** 58.5% merged (288 of 492)
 
 ## Bootstrapping Projects
 
@@ -47,15 +48,16 @@ merged contribution.
 
 | Project | Contributions | Open | Merged |
 | --- | ---: | ---: | ---: |
-| <a href="https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent">Deep Researcher Agent (AIQ)</a> | [3](https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent/pulls/deepujain) | 3 | 0 |
+| <a href="https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent">Deep Researcher Agent (AIQ)</a> | [3](https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent/pulls/deepujain) | 1 | 0 |
+| <a href="https://github.com/kubernetes/kubernetes"><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes logo" height="18"></a> <a href="https://github.com/kubernetes/kubernetes">Kubernetes</a> | [2](https://github.com/kubernetes/kubernetes/pulls/deepujain) | 2 | 0 |
 | <a href="https://github.com/Leaflet/Leaflet"><img src="https://avatars.githubusercontent.com/u/2854298?v=4" alt="Leaflet logo" height="18"></a> <a href="https://github.com/Leaflet/Leaflet">Leaflet</a> | [5](https://github.com/Leaflet/Leaflet/pulls/deepujain) | 0 | 0 |
 | <a href="https://github.com/NVIDIA/Megatron-LM"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/Megatron-LM">Megatron-LM</a> | [5](https://github.com/NVIDIA/Megatron-LM/pulls/deepujain) | 2 | 0 |
 | <a href="https://github.com/NVIDIA/OpenShell"><img src="https://raw.githubusercontent.com/NVIDIA/OpenShell/main/docs/brand/assets/favicon.svg" alt="OpenShell logo" height="18"></a> <a href="https://github.com/NVIDIA/OpenShell">OpenShell</a> | [1](https://github.com/NVIDIA/OpenShell/pulls/deepujain) | 0 | 0 |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 |
 
-## Non-Pulsar Contributions
+## Non-Warp Speed Contributions
 
-These contributions were not assisted by Pulsar.
+These contributions were not assisted by Warp Speed.
 
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
