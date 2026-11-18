@@ -21,9 +21,14 @@ same gates the project runs in CI. A change that fails goes back to the Build
 agent, not to the project's reviewers.
 
 Once the pull request is open, the **Repair agent** owns it. When a hosted check
-fails, the Repair agent reads the log, reproduces the failure and pushes one
-focused fix. The **Testing agent** runs the project's end-to-end suites on that
-exact commit and keeps the evidence.
+or an end-to-end suite fails, the Repair agent reads the log, reproduces the
+failure and pushes one focused fix, then runs the project's end-to-end suites
+again on that exact commit until every check is green.
+
+The **Testing agent** proves the change does what it claims. It runs the same
+scenario twice, once on the code before the change to show the problem, and
+once after it to show the fix, and keeps both results, with screenshots for
+anything a user can see, as evidence on the pull request.
 
 The **Nudge agent** watches over all of them. It reads every open pull request
 on a schedule, and when one stalls, it wakes the agent that owns the next step.
