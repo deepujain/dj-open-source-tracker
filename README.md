@@ -1,36 +1,38 @@
 # Warp Speed
 
 Warp Speed is a team of AI agents that carries open-source work from an open
-issue to a merged pull request. No single agent does everything. Each one owns
-a stage, the way people on an engineering team do, and hands its work to the
-next.
+issue to a merged pull request. No single agent does everything. Each agent
+owns one stage, the way people on an engineering team do, and hands its work to
+the next agent.
 
-Every contribution starts with **Triage**. It reads a project's open issues,
-sets aside the ones someone else has claimed or that fall outside the
+Every contribution starts with the **Triage agent**. It reads a project's open
+issues, sets aside the ones someone else has claimed or that fall outside the
 project's contribution rules, and picks the ones worth solving.
 
-**Research** then studies each issue the way a new teammate would: the code
-paths involved, the project's contributing guide, and what reviewers asked for
-on earlier pull requests. It hands over a plan, not a guess.
+The **Research agent** then studies each issue the way a new teammate would:
+the code paths involved, the project's contributing guide, and what reviewers
+asked for on earlier pull requests. It hands the Build agent a plan, not a
+guess.
 
-**Build** writes the change and its tests in an isolated checkout, so many
-issues move forward side by side without stepping on each other. Before
-anything leaves the machine, **Review** checks the commit against the same
-gates the project runs in CI. A change that fails goes back to Build, not to
-the project's reviewers.
+The **Build agent** writes the change and its tests in an isolated checkout, so
+many issues move forward side by side without stepping on each other. Before
+anything leaves the machine, the **Review agent** checks the commit against the
+same gates the project runs in CI. A change that fails goes back to the Build
+agent, not to the project's reviewers.
 
-Once the pull request is open, **Repair** owns it. When a hosted check fails,
-Repair reads the log, reproduces the failure and pushes one focused fix.
-**Testing** runs the project's end-to-end suites on that exact commit and keeps
-the evidence.
+Once the pull request is open, the **Repair agent** owns it. When a hosted check
+fails, the Repair agent reads the log, reproduces the failure and pushes one
+focused fix. The **Testing agent** runs the project's end-to-end suites on that
+exact commit and keeps the evidence.
 
-**Nudge** watches over all of it. It reads every open pull request on a
-schedule, and when one stalls, it wakes the agent that owns the next step.
-**Learn** closes the loop: every review outcome, merged or not, becomes a rule
-the next run follows, so each project gets easier to contribute to over time.
+The **Nudge agent** watches over all of them. It reads every open pull request
+on a schedule, and when one stalls, it wakes the agent that owns the next step.
+The **Learn agent** closes the loop: every review outcome, merged or not,
+becomes a rule the other agents follow on their next run, so each project gets
+easier to contribute to over time.
 
-Together they work dozens of pull requests across many projects at once, each
-one racing to ready for review with every check green.
+Together these agents work dozens of pull requests across many projects at
+once, each one racing to ready for review with every check green.
 
 ![Warp Speed dashboard: pull requests landed, opened and ready for review](assets/warp-speed-dashboard-hd.png)
 
