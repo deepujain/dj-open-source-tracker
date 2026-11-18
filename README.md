@@ -1,15 +1,22 @@
 # Warp Speed
 
-Warp Speed is an engineering system for AI coding agents that carries
-open-source work from an issue to a merged pull request. It picks work that
-fits each project's rules, runs coding agents side by side, and verifies every
-change against the project's own checks before anything is pushed.
+Warp Speed is a team of AI agents that carries open-source work from an issue
+to a merged pull request. Each agent owns one stage, and they hand work to each
+other like an engineering team:
 
-Every pull request has one goal: ready for review with every check green.
-Repair agents fix failing checks and answer review comments. A watcher keeps an
-eye on every open pull request, restarts work that stalls, and politely asks
-reviewers when a ready pull request waits. Each change ships with a receipt of
-what was tested and what comes next.
+| Stage | Agent | What it does |
+|-------|-------|--------------|
+| 1 | **Triage** | Screens open issues and picks the ones that fit the project's rules and are worth solving. |
+| 2 | **Research** | Reads the code, the project's guidance and past reviews, and plans the change. |
+| 3 | **Build** | Writes the fix with tests, in an isolated checkout of the project. |
+| 4 | **Review** | Checks the change locally against the project's own gates before anything is pushed. |
+| 5 | **Repair** | Takes any failing check after a push and drives the pull request to green. |
+| 6 | **Testing** | Runs the project's end-to-end suites and records the evidence. |
+| 7 | **Nudge** | Watches every open pull request and wakes up the right agent when work stalls. |
+| 8 | **Learn** | Turns each review outcome into rules the next run follows. |
+
+Together they run many pull requests across many projects at once, each one
+racing to ready for review with every check green.
 
 ![Warp Speed dashboard: pull requests landed, opened and ready for review](assets/warp-speed-dashboard.png)
 
