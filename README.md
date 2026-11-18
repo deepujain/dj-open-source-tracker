@@ -1,22 +1,36 @@
 # Warp Speed
 
-Warp Speed is a team of AI agents that carries open-source work from an issue
-to a merged pull request. Each agent owns one stage, and they hand work to each
-other like an engineering team:
+Warp Speed is a team of AI agents that carries open-source work from an open
+issue to a merged pull request. No single agent does everything. Each one owns
+a stage, the way people on an engineering team do, and hands its work to the
+next.
 
-| Stage | Agent | What it does |
-|-------|-------|--------------|
-| 1 | **Triage** | Screens open issues and picks the ones that fit the project's rules and are worth solving. |
-| 2 | **Research** | Reads the code, the project's guidance and past reviews, and plans the change. |
-| 3 | **Build** | Writes the fix with tests, in an isolated checkout of the project. |
-| 4 | **Review** | Checks the change locally against the project's own gates before anything is pushed. |
-| 5 | **Repair** | Takes any failing check after a push and drives the pull request to green. |
-| 6 | **Testing** | Runs the project's end-to-end suites and records the evidence. |
-| 7 | **Nudge** | Watches every open pull request and wakes up the right agent when work stalls. |
-| 8 | **Learn** | Turns each review outcome into rules the next run follows. |
+Every contribution starts with **Triage**. It reads a project's open issues,
+sets aside the ones someone else has claimed or that fall outside the
+project's contribution rules, and picks the ones worth solving.
 
-Together they run many pull requests across many projects at once, each one
-racing to ready for review with every check green.
+**Research** then studies each issue the way a new teammate would: the code
+paths involved, the project's contributing guide, and what reviewers asked for
+on earlier pull requests. It hands over a plan, not a guess.
+
+**Build** writes the change and its tests in an isolated checkout, so many
+issues move forward side by side without stepping on each other. Before
+anything leaves the machine, **Review** checks the commit against the same
+gates the project runs in CI. A change that fails goes back to Build, not to
+the project's reviewers.
+
+Once the pull request is open, **Repair** owns it. When a hosted check fails,
+Repair reads the log, reproduces the failure and pushes one focused fix.
+**Testing** runs the project's end-to-end suites on that exact commit and keeps
+the evidence.
+
+**Nudge** watches over all of it. It reads every open pull request on a
+schedule, and when one stalls, it wakes the agent that owns the next step.
+**Learn** closes the loop: every review outcome, merged or not, becomes a rule
+the next run follows, so each project gets easier to contribute to over time.
+
+Together they work dozens of pull requests across many projects at once, each
+one racing to ready for review with every check green.
 
 ![Warp Speed dashboard: pull requests landed, opened and ready for review](assets/warp-speed-dashboard.png)
 
