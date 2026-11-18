@@ -32,7 +32,7 @@ the next run follows, so each project gets easier to contribute to over time.
 Together they work dozens of pull requests across many projects at once, each
 one racing to ready for review with every check green.
 
-![Warp Speed dashboard: pull requests landed, opened and ready for review](assets/warp-speed-dashboard.png)
+![Warp Speed dashboard: pull requests landed, opened and ready for review](assets/warp-speed-dashboard-hd.png)
 
 ## Warp Speed-Assisted Contributions
 
@@ -45,7 +45,7 @@ These contributions were assisted by Warp Speed.
 | <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [7](https://github.com/apache/spark/pulls/deepujain) | 0 | 4 | 57.1% |
 | <a href="https://github.com/apache/superset"><img src="https://apache.org/logos/res/superset/default.png" alt="Apache Superset logo" height="18"></a> <a href="https://github.com/apache/superset">Apache Superset</a> | [12](https://github.com/apache/superset/pulls/deepujain) | 2 | 10 | 83.3% |
 | <a href="https://github.com/brevdev/brev-cli"><img src="https://avatars.githubusercontent.com/u/70683657?v=4" alt="Brev logo" height="18"></a> <a href="https://github.com/brevdev/brev-cli">Brev CLI</a> | [2](https://github.com/brevdev/brev-cli/pulls/deepujain) | 0 | 2 | 100.0% |
-| <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/og-logo.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [26](https://github.com/openclaw/clawhub/pulls/deepujain) | 1 | 12 | 46.2% |
+| <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/logo192.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [26](https://github.com/openclaw/clawhub/pulls/deepujain) | 1 | 12 | 46.2% |
 | <a href="https://github.com/kubernetes-sigs/gateway-api"><img src="https://avatars.githubusercontent.com/u/36015203?v=4" alt="Kubernetes SIGs logo" height="18"></a> <a href="https://github.com/kubernetes-sigs/gateway-api">Gateway API</a> | [2](https://github.com/kubernetes-sigs/gateway-api/pulls/deepujain) | 1 | 1 | 50.0% |
 | <a href="https://github.com/NousResearch/hermes-agent"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" alt="Hermes Agent logo" height="18"></a> <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> | [16](https://github.com/NousResearch/hermes-agent/pulls/deepujain) | 5 | 1 | 6.2% |
 | <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [39](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 3 | 20 | 51.3% |
