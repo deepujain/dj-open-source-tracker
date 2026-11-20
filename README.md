@@ -4,7 +4,7 @@ Warp Speed is a team of AI agents that carries open-source work from an open
 issue to a merged pull request: Triage, Research, Build, Review, Repair,
 Testing, Shepherd and Learn.
 
-![Warp Speed dashboard: pull requests landed, opened and ready for review](assets/warp-speed-dashboard-hd.png)
+![Warp Speed dashboard: pull requests landed, opened and ready for review](assets/warp-speed-dashboard-overnight.png)
 
 ## Warp Speed-Assisted Contributions
 
